@@ -1,104 +1,29 @@
-<h1> C++ Programming Language</h1>
+> # C++ Programming Language
 
-<h2> Some Practical code</h2>
-<ol>
-<li>
-    <a href="./pro1.cpp">
-        <h3>
-            Program-1
-        </h3> 
-        <span style="color:black;"> 
-            Printing the Text on user screen.
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro2.cpp">
-        <h3>
-            Program-2
-        </h3> 
-        <span style="color:black;"> 
-            Getting the value from user
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro3.cpp">
-        <h3>
-            Program-3
-        </h3> 
-        <span style="color:black;"> 
-            this program gives you introduction about the <b><i>if-else statement</i></b>
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro4.cpp">
-        <h3>
-            Program-4
-        </h3> 
-        <span style="color:black;"> 
-            this program gives your introduction about the 
-            <b><i>Switch-Cases</i></b>
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro5.cpp">
-        <h3>
-            Program-5
-        </h3> 
-        <span style="color:black;"> 
-            this program gives your introduction about the 
-            <b><i>For-Loop</i></b>
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro6.cpp">
-        <h3>
-            Program-6
-        </h3> 
-        <span style="color:black;"> 
-            this program gives your introduction about the 
-            <b><i>While-loop</i></b>
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro7.cpp">
-        <h3>
-            Program-7
-        </h3> 
-        <span style="color:black;"> 
-            this program gives your introduction about the 
-            <b><i>Do-While-loop</i></b>
-        </span>
-    </a>
-</li>
-<li>
-    <a href="./pro8.cpp">
-        <h3>
-            Program-8
-        </h3> 
-        <span style="color:black;"> 
-            this program gives your introduction about the 
-            <b><i>Functions</i></b> declarations.
-        </span>
-    </a>
-    <ol>
-        <li>
-           <a href="./pro9.cpp">
-                <h3>
-                    Program-9
-                </h3> 
-                <span style="color:black;"> 
-                    this program gives your introduction about the 
-                    <b><i>Functions</i></b> declarations with <b><i> pass by value</i></b>
-                </span>
-            </a>
-        </li>
-    </ol>
-</li>
+>  # Some Practical code
+>> ## Program-1
+>>> ### Printing the Text on user screen.
 
-</ol>
+>> ## Program-2
+>>>   ### Getting the value from user
+     
+>> ## Program-3
+>>>  ### This program gives you introduction about the ***if-else statement***
+
+>>## Program-4
+>>> ### This program gives your introduction about the ***Switch-Cases*** .
+
+>>## Program-5
+>>> ### This program gives your introduction about the ***For-Loop***
+
+>>## Program-6
+>>>### This program gives your introduction about the ***While-loop*** .
+
+>>## Program-7
+>>>### This program gives your introduction about the ***Do-While loop***
+
+>>## Program-8
+>>>### This program gives your introduction about the ***Functions*** declarations.
+
+>>## Program-9
+>>>### This program gives your introduction about the ***Functions*** declarations with ***pass by value***
