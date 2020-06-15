@@ -1,7 +1,7 @@
-#include<iostream>//its a header file iostream refers to the input/output
-using namespace std;//this is namespace we discuss later..
+#include<iostream>
+using namespace std;
 int main()
 {
-	cout<<"HELLO WORLD";//THIS IS PRINT THE STATEMENT ON USER SCREEN
-	//COUT IS THE FUNCTION OF OUTPUT STREAM << IS STREAM OPERATOR
+	cout<<"Hello World"; 
+	//std is a standard file in which a function name is cout and << operator is Standard Input.
 }
