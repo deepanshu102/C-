@@ -1,4 +1,4 @@
-/*****************************************************************
+/****************************************************************
   :::::::::::::: Description ::::::::::::::::
    * HOW TO PUT CONDITION OF C PLUS PLUS PROGRAM 
    	->IF USER ENTER EVEN NUMBER THEN MESSAGE SHOULD BE "ENTERED NUMBER IS EVEN"
